@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdave",
+        "uuid": 29908440,
+        "checksum": "wx50q"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
